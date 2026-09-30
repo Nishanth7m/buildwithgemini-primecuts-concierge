@@ -1,0 +1,18 @@
+{
+  "MEAT-36D35E": {
+    "order_id": "MEAT-36D35E",
+    "product_id": "MUT-BIRYANI",
+    "product_name": "Special Goat Biryani Cut",
+    "weight_per_pack": "1kg",
+    "quantity": 1,
+    "item_total": 890.0,
+    "delivery_fee": 0.0,
+    "total_amount": 890.0,
+    "customer_name": "Alex",
+    "customer_phone": "9876543210",
+    "delivery_address": "42 MG Road, Koramangala",
+    "delivery_slot": "Express (45 mins)",
+    "status": "Confirmed & Cold-Chamber Packed",
+    "timestamp": "2026-09-29 05:18:35"
+  }
+}
